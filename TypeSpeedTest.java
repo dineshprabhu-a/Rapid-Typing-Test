@@ -1,3 +1,5 @@
+//Dineshprabhu A
+
 import java.util.*;
 public class TypeSpeedTest {
     public static void main(String[] args) {
